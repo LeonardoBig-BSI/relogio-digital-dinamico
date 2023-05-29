@@ -14,4 +14,4 @@ Basta apenas abrir seu explorador de arquivos, abrir a pasta do projeto e clicar
 </p>
 <br>
 
-# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens![relogio-digital-dinamico](https://github.com/LeonardoBig-BSI/relogio-digital-dinamico/assets/84250017/bf30a3d7-ca17-461f-9a22-5904697197ed)
